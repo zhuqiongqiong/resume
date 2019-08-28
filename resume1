@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+    <div class="entire">
+    <div id="heading">
+        <h3>简历</h3>
+    </div>
+    <div class="table">
+        <div class="tableRow">
+            <div class="tableCell">
+                <p>基本信息</p>
+            </div>
+            <div class="tableCell">
+                <table>
+                    <tr>
+                       <td>姓名</td><td>张三</td><td>性别</td> <td>男 </td>  <td>应聘职位</td> <td>Web前端工程师</td>
+                    </tr>
+               </table>
+            </div>
+        </div>
+        <div class="tableRow">
+            <div class="tableCell">
+                <p>联系方式</p>
+            </div>
+            <div class="tableCell">
+               <table >
+                   <tr>
+                       <td>手机</td> <td>17238348992</td>   <td>email</td> <td><a href="joinefe@baidu.com">joinefe@baidu.com</a></td>   <td>个人主页</td> <td><a href="zhuqiongqiong.github.io">Github</a></td
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="tableRow">
+            <div class="tableCell">
+               <p>能力描述</p>
+            </div>
+            <div class="tableCell">
+               <p>
+                   <strong>技术能力</strong>
+                   熟练掌握HTML，CSS，JavaScript<br/>
+                   <strong>综合能力</strong>
+                   良好的沟通，主动积极，努力勤奋<br/>
+                </p>
+            </div>
+        </div>
+        <div class="tableRow">   
+            <div class="tableCell"> 
+                <p>教育经历</p>
+            </div>
+            <div class="tableCell">
+                <p><strong>本科</strong>百度前端技术小薇学院<br>
+                <strong>研究</strong>百度前端技术小斌学院</br/></p>
+            </div>
+        </div>
+        <div class="tableRow">
+            <div class="tableCell">
+               <p>项目经历</p>
+            </div>
+            <div class="tableCell">
+               <p><strong>小度小度</strong>作为前端工程师角色参加了ABC组件开发<br/></p>
+                <strong>工程师</strong>
+                   参与了SAN Doc编写<br/>
+                </p>
+            </div>    
+        </div>       
+    </div>
+    </div>
+      
+</body>
+</html>
